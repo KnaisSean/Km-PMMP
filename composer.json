@@ -102,13 +102,17 @@
       ]
    },
    "repositories": [
-      {
-         "type": "vcs",
-         "url": "https://github.com/Swim-Services/BedrockProtocol.git"
-      },
-      {
-         "type": "vcs",
-         "url": "https://github.com/Swim-Services/BedrockData.git"
-      }
-   ]
+    {
+        "type": "vcs",
+        "url": "https://github.com/KnaisSean/BedrockProtocol"  // 注意名字要和截图完全一样
+    },
+    {
+        "type": "vcs",
+        "url": "https://github.com/KnaisSean/BedrockData"
+    },
+    {
+        "type": "composer",
+        "url": "https://repo.packagist.com"
+    }
+]
 }
