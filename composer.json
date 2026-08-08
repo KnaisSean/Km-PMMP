@@ -104,7 +104,7 @@
    "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/KnaisSean/BedrockProtocol"
+        "url": "https://github.com/KnaisSean/BedrockProtocol-"
     },
     {
         "type": "vcs",
