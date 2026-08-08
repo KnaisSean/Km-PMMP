@@ -110,9 +110,5 @@
         "type": "vcs",
         "url": "https://github.com/KnaisSean/BedrockData"
     },
-    {
-        "type": "composer",
-        "url": "https://repo.packagist.com"
-    }
-]
+   ]
 }
